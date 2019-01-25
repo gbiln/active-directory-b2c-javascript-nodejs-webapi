@@ -9,8 +9,8 @@ var passport = require("passport");
 var BearerStrategy = require('passport-azure-ad').BearerStrategy;
 
 // TODO: Update the first 3 variables
-var tenantID = "fabrikamb2c.onmicrosoft.com";
-var clientID = "25eef6e4-c905-4a07-8eb4-0d08d5df8b3f";
+var tenantID = "bilndevadb2c.onmicrosoft.com";
+var clientID = "8a325ea1-abb7-406e-90e5-e8e3757ef96c";
 var policyName = "B2C_1_SUSI";
 
 var options = {
